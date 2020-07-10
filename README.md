@@ -1,3 +1,4 @@
+
 ### Hi there 👋
 
 <!--
@@ -14,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Twitter](https://img.shields.io/badge/twitter-@byaruhaf-blue.svg)](http://twitter.com/byaruhaf)  [![Stackoverflow](https://img.shields.io/stackexchange/stackoverflow/r/3369207)](https://stackoverflow.com/users/3369207/byaruhaf?tab=profile)
