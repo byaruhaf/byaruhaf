@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Stackoverflow](https://img.shields.io/stackexchange/stackoverflow/r/3369207)](https://stackoverflow.com/users/3369207/byaruhaf?tab=profile)  [![Twitter](https://img.shields.io/twitter/follow/byaruhaf?style=social)](http://twitter.com/byaruhaf)
+[![Stackoverflow](https://img.shields.io/stackexchange/stackoverflow/r/3369207)](https://stackoverflow.com/users/3369207/byaruhaf)  [![Twitter](https://img.shields.io/twitter/follow/byaruhaf?style=social)](http://twitter.com/byaruhaf)
