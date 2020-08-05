@@ -16,6 +16,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📫 How to reach me: 
+## 🔭 I’m currently working on ...
 
-[![Stackoverflow](https://img.shields.io/stackexchange/stackoverflow/r/3369207)](https://stackoverflow.com/users/3369207/byaruhaf)  [![Twitter](https://img.shields.io/twitter/follow/byaruhaf?style=social)](http://twitter.com/byaruhaf)
+
+
+
+## 📫 How to reach me: 
+
+[![Email](https://img.shields.io/badge/Email--shields.svg?style=social&logo=gmail)][Email]
+[![Website](https://img.shields.io/badge/Website--shields.svg?style=social&logo=wordpress)][Website]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn--shields.svg?style=social&logo=linkedin)][LinkedIn]
+[![Twitter](https://img.shields.io/badge/Twitter--shields.svg?style=social&logo=twitter)][Twitter]
+[![Stackoverflow](https://img.shields.io/stackexchange/stackoverflow/r/3369207)][Stackoverflow]
+
+[Email]: mailto:byaruhaf@appbantu.com
+[Website]: https:///appbantu.com
+[LinkedIn]: https://www.linkedin.com/in/byaruhaf/
+[Twitter]: https://twitter.com/byaruhaf
+[Stackoverflow]: https://stackoverflow.com/users/3369207/byaruhaf
+
