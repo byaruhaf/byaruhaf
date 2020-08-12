@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 
 ## 🔭 I’m currently working on ...
 
-
+![](https://github-readme-stats.vercel.app/api?username=byaruhaf&count_private=true&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=byaruhaf)
 
 
 ## 📫 How to reach me: 
