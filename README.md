@@ -2,16 +2,17 @@
 
 My name is Franklin. I'm a developer with a passion for iOS and swift.
 
-<!-- 
-I'm working on
 
-. [Runestone](https://apps.apple.com/us/app/runestone-editor/id1548193893)
+**Projects:**
 
-. [Scriptable](https://apps.apple.com/us/app/scriptable/id1405459188)
+<!-- -> GitMark [Github 🧑🏽‍💻](https://github.com/byaruhaf/GitDrop)  [AppStore 📱](https://apps.apple.com/us/app/GitMark/id1405459188) -->
+- GitDrop [Github 🧑🏽‍💻](https://github.com/byaruhaf/GitDrop)
 
-. [Jayson](https://apps.apple.com/us/app/jayson/id1447750768)
+**Open Source Contributions:**
 
-. [Data Jar](https://apps.apple.com/us/app/data-jar/id1453273600)
--->
+- Mozilla Firefox iOS [Github 🧑🏽‍💻](https://github.com/mozilla-mobile/firefox-ios/commits?author=byaruhaf)
+- Kodeco iOS [Github 🧑🏽‍💻](https://github.com/razeware/emitron-iOS/commits?author=byaruhaf)
+- Unwrap iOS [Github 🧑🏽‍💻](https://github.com/twostraws/Unwrap/commits?author=byaruhaf)
+
 
 You can reach me on Twitter where I'm [@byaruhaf](https://twitter.com/byaruhaf) 🐦
