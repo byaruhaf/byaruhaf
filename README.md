@@ -6,7 +6,8 @@ My name is Franklin. I'm a developer with a passion for iOS and swift.
 **Projects:**
 
 <!-- -> GitMark [Github 🧑🏽‍💻](https://github.com/byaruhaf/GitDrop)  [AppStore 📱](https://apps.apple.com/us/app/GitMark/id1405459188) -->
-- GitDrop [Github 🧑🏽‍💻](https://github.com/byaruhaf/GitDrop)
+- [GitDrop](https://github.com/byaruhaf/GitDrop)
+- [Meet App](https://meetdatesapp.com)
 
 **Open Source Contributions:**
 
