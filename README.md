@@ -1,6 +1,6 @@
 # Hi, I'm Franklin 👋
 
-📍 **Kampala** | 🛠️ **App Developer**
+📍 **Kampala, Uganda** | 🛠️ **Mobile App Developer**
 
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/-SwiftUI-0062D3?style=flat-square&logo=swift&logoColor=white)
@@ -11,4 +11,4 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 
-> I'm a Mobile App Developer with a strong focus on building native iOS apps using Swift and SwiftUI, combined with backend systems powered by Python (FastAPI).
+> Mobile app developer building high-quality native iOS apps with **Swift** and **SwiftUI**, backed by scalable **Python (FastAPI)** services.
