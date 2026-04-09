@@ -11,4 +11,4 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 
-> Mobile app developer building high-quality native iOS apps with **Swift** and **SwiftUI**, backed by scalable **Python (FastAPI)** services.
+> iOS apps with **Swift/SwiftUI**. Backends with **Python/FastAPI**.
