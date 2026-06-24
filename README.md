@@ -27,5 +27,6 @@
 
 [![Blog](https://img.shields.io/badge/Blog-0a0a0a?style=for-the-badge&logo=astro&logoColor=white)](https://byaruhaf.dev)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/byaruhaf)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/byaruhaf.bsky.social)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/byaruhaf/)
 [![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/byaruhaf)
