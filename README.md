@@ -16,3 +16,16 @@
 
 
 > iOS apps with **Swift/SwiftUI**. Backends with **Python/FastAPI**.
+<!---
+## What I'm working on
+
+- 🤖 **XXXXXXX** — ZZZZZZZZZZ
+
+--->
+
+## Socials
+
+[![Blog](https://img.shields.io/badge/Blog-0a0a0a?style=for-the-badge&logo=astro&logoColor=white)](https://byaruhaf.dev)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/byaruhaf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/byaruhaf/)
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/byaruhaf)
