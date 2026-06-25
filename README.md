@@ -9,7 +9,8 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)
 ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)
 ![Indie Hacker](https://img.shields.io/badge/Indie%20Dev-Build%20in%20Public-black)
-![App Store](https://img.shields.io/badge/App%20Store-Published-blue)
+[![Credly](https://img.shields.io/badge/Credly-Certifications-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/byaruhaf)
+[![App Store](https://img.shields.io/badge/App%20Store-Published-blue)](https://apps.apple.com/us/developer/franklin-byaruhanga/id1580006467)
 <!---
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)
