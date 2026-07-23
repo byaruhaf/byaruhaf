@@ -16,7 +16,7 @@
 ![KCNA Certified](https://img.shields.io/badge/KCNA-Certified-326CE5?logo=kubernetes&logoColor=white)
 --->
 
-> iOS apps with **Swift/SwiftUI**. Backends with **Python/FastAPI**.
+> macOS & iOS apps with **Swift/SwiftUI**. Backends with **Python/FastAPI**.
 <!---
 ## What I'm working on
 
